@@ -16,3 +16,17 @@
   - Anki (flash card)
 - docs branch로 PR 을 보내면 정리 후, main branch 로 push
 
+<br/>
+
+## 유튜브 운영체제 강의
+
+- 강의 : [겨울학기 운영체제 강의](https://youtu.be/zGBm37kze9I)
+
+- Flash Card : 교재 정리본을 flash card 형태로 정리, 틈틈이 시험 볼 수 있는 형태로 만들기
+  - [Google Sheet](https://docs.google.com/spreadsheets/d/1YPuHxwPN247XZYkAYTvmcBT9ZEfp5oTXNdC-pnijGBY/edit?usp=sharing)
+  - Anki (flash card)
+- docs branch로 PR 을 보내면 정리 후, main branch 로 push
+
+
+
+<br/>
