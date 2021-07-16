@@ -1,20 +1,18 @@
 # OPERATING SYSTEM
 
-> Table of Contents
->
-> references 
->
-> context
+-----
 
+> [toc]
 
+<br/>
 
-### References
+## Principles of operating systems and information technology
 
-1. 입문
+- 교재 : [운영체제와 정보기술의 원리](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158903589)
 
-\[grab\]\([https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af\#171215d0045b49e2affaf9e3c6eef635](https://www.grabbing.me/8d9e92b19e084c5a8cb173a695aa81af#171215d0045b49e2affaf9e3c6eef635)\)
-
-
-
-
+- 강의 : [kocw 운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1226304)
+- Flash Card : 교재 정리본을 flash card 형태로 정리, 틈틈이 시험 볼 수 있는 형태로 만들기
+  - [Google Sheet](https://docs.google.com/spreadsheets/d/1YPuHxwPN247XZYkAYTvmcBT9ZEfp5oTXNdC-pnijGBY/edit?usp=sharing)
+  - Anki (flash card)
+- docs branch로 PR 을 보내면 정리 후, main branch 로 push
 
