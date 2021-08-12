@@ -30,3 +30,8 @@
 
 
 <br/>
+
+## Coursera : Operating Systems and You: Becoming a Power User
+
+- 강의 : [Coursera](https://www.coursera.org/learn/os-power-user?)
+- 
